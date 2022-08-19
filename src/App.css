@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.App .color_container {
+  height: 250px;
+  width: 250px;
+  border-color: black;
+  border-width: 5px;
+  border-style: solid;
+}
+
+.input{
+  position: absolute;
+  margin-top:350px;
+  /* margin-right: 7px; */
+  
+}
